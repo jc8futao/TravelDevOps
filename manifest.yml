@@ -3,6 +3,6 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: BlueEye2
-  host: BlueEye2
+  name: blueeye2-taofu
+  host: blueeye2-taofu
   disk_quota: 1024M
